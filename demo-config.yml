@@ -1,4 +1,0 @@
-# application.yml
-app:
-  name: EcommerceMicroservices
-  description: "Common config"
